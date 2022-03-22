@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1635376784 source:c:\users\ken\desktop\codeblocks\project 7\implement.cpp
+	<iostream>
+	"header.h"
+
+1635376868 c:\users\ken\desktop\codeblocks\project 7\header.h
+	<iostream>
+	<cstdlib>
+
